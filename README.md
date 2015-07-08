@@ -2,7 +2,7 @@
 orga stuff for the chaos communication camp 2015
 
 
-## LINKS - 
+## LINKS - please follow
 
 * [http://events.ccc.de/camp/2015/wiki/Main_Page](http://events.ccc.de/camp/2015/wiki/Main_Page) / official event wiki
 * [http://events.ccc.de/](http://events.ccc.de/) / offical event blog
